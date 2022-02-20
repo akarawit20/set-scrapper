@@ -17,4 +17,5 @@ def get_stock_symbols():
 if __name__ == '__main__':
 	print(get_stock_symbols())
 
+#test
 
